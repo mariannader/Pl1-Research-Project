@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1591025671 source:c:\users\acer\desktop\cpro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1591193215 source:c:\users\acer\desktop\new folder\cpro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
